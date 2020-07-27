@@ -1,20 +1,42 @@
+
+  
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width">
-    <title>repl.it</title>
-    <link href="style.css" rel="stylesheet" type="text/css" />
+  
   </head>
-  <body>
-    <script src="script.js"></script> 
-<!DOCTYPE html>
-<html>
-  <head>
-    <link href="style.css" rel="stylesheet" type="text/css" />
-  </head>
-  <body>
-    <script src="script.js"></script> 
+  <body>  
+  <style>
+  body {
+  color:#110EF0;
+  background-position: center; 
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+ line-height: 1.6em;
+ margin: 0; 
+ }
+header {
+  background-color: orange;
+
+}
+h2 {
+  background-color: #E5FA0F;
+}
+
+.article1 {
+   background-color: #F7D914;
+}
+
+.article2 {
+  background-color: #E01FB3;
+  opacity: .75
+}
+
+.aside1 {
+  background-color: #36FA2B;
+
+
+} 
+</style>
     <div class="div1">
       <header>
         <h1> Felicia's Page </h1> 
